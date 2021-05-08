@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Football Game",
+      "day": "May 5th at 5:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting with Client",
+      "day": "May 5th at 11:00am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Shopping",
+      "day": "May 7th at 6:00pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Dinner at Marriot",
+      "day": "May 7th at 9:30pm",
+      "reminder": false
+    }
+  ]
+}
